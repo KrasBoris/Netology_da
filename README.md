@@ -4,3 +4,4 @@
 1) 1_pandas - библиотека pandas
 2) 2_functions_&_data - Функции и работа с данными
 3) 3_high_pandas - Продвинутый pandas
+4) 4_web_scrapping - парсинг сайтов
